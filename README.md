@@ -22,5 +22,5 @@ This project is an implementation of transforming places in Google Maps Street V
 7. Open `localhost:5000` on your web browser and live in your anime world in Google Maps Street View.
 
 ## Results:
-<img src="https://github.com/NSTiwari/Sketch2Vid/blob/main/static/images/sketch2video.gif"/>
+<img src="https://github.com/NSTiwari/GoogleMapsStreet2Anime/blob/main/static/gemini_google_maps_anime.gif"/>
 
